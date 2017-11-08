@@ -54,6 +54,10 @@ const RippleWrapper = styled.div`
     opacity: .2;
     transition: 0s;
   }
+
+  &:focus-within {
+    outline: auto;
+  }
 `;
 
 export default withRipple;
