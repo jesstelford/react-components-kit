@@ -1,6 +1,6 @@
 {
-  "name": "react-components-kit",
-  "version": "0.0.0-development",
+  "name": "@jesstelford/react-components-kit",
+  "version": "4.2.1",
   "description": "Collection of reusable React components",
   "main": "dist/index.js",
   "directories": {
